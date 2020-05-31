@@ -1,3 +1,3 @@
 # sampleProject
-This is just a sample project to learn the git
+Project contains some leetcode problems
 I will keep on adding my project into this sample
